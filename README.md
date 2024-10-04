@@ -36,3 +36,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/cf94e1e6-b7ff-47ee-8dc2-5eece5092934)
 
 ## RESULT: 
+         Thus,Program executed successfully
